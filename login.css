@@ -1,0 +1,65 @@
+.main-login
+		{
+			position: relative;
+			width: 30%;
+			top: 200px;
+			margin-top: auto;
+			margin-bottom: auto;
+			margin-left: auto;
+			margin-right: auto;
+			height:200px;
+			border: 1px solid #398AD7;
+			border-radius: 10px;
+			overflow: hidden;
+
+		}
+		.title-login
+		{
+			position: relative;
+			width: 100%;
+			height: 20%;
+			top: 0;
+			background-color: #398AD7;
+		}
+		.title
+		{
+			position: relative;
+			font-size: 14px;
+			font-weight: bolder;
+			letter-spacing: 5px;
+			width: 100%;
+			height: 100%;
+			margin: 0;
+			text-align: center;
+			padding-top: 10px
+
+
+		}
+		.form-login
+		{
+			align-content: center;
+			text-align: center;
+			padding-top: 10px;
+		}
+		.form-login input
+		{
+			margin: 5px;
+		}
+		[type="submit"]
+		{
+			background-color: #398AD7;
+			height: 30px;
+			width: 80px;
+		}
+		[type="submit"]:hover
+		{
+			background-color: #74D5DD;
+		}
+		a
+		{
+			text-decoration: none;
+			text-align: center;	
+			position: relative;
+			
+		}
+
